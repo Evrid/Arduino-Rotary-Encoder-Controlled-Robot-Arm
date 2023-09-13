@@ -5,7 +5,7 @@ More see: https://www.instructables.com/Rotary-Encoder-Controlled-Robot-Arm/
 
 ## Overview
 
-This project is inspired by a Bluetooth controlled robot arm seen on `howtomechatronics.com`. We've modified the design to use rotary encoders for more precise and user-friendly control. You can now control each joint of the robot arm using a rotary encoder and also record its movements.
+I've modified the design to use rotary encoders for more precise and user-friendly control. You can now control each joint of the robot arm using a rotary encoder and also record its movements.
 
 ## Supplies
 
@@ -43,7 +43,7 @@ This project is inspired by a Bluetooth controlled robot arm seen on `howtomecha
 
 ### Step 4: Download the STL Files
 
-- The STL files are credited to `howtomechatronics.com`.
+- The STL files are credited to `howtomechatronics.com` and I did some modifications.
 
 Attachments:
 - [Download STL.rar](#)
